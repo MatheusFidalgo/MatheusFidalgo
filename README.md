@@ -18,7 +18,7 @@
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="Matheus-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   
-  <img align="right" alt="Matheus-Fidalgo" height="150" width="150" src="https://avatars.githubusercontent.com/u/67283766?v=4" />
+  <img align="right" alt="Matheus-Fidalgo" height="150" width="150" src="https://cdn.discordapp.com/attachments/717826915347464226/959188240475238490/EU_JAYJAY.png" />
 </div>  
 
 ##

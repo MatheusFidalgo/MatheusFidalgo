@@ -13,7 +13,7 @@ _Hello there, welcome to my Github profile!_
 - Tenho disponibilidade para trabalhar fora do país. (_I am available to work abroad._)
 - Meu inglês está entre avançado e fluente. (_My English is between advanced and fluent._)
 - Eu estudo e trabalho com as linguagens que estão logo abaixo. (_I study and work with the languages that are just below._)
-- Qualquer dúvida, sinta-se livre em me contatar através delas. (_Any questions, feel free to contact me through them._)
+- Qualquer dúvida, sinta-se livre em me contatar através das redes abaixo. (_Any questions, feel free to contact me through the 'socials' below._)
 
 <div>
     <a href="https://github.com/MatheusFidalgo">  

@@ -1,7 +1,19 @@
+## Olá, seja bem-vindo ao meu perfil no GitHub!
+_Hello there, welcome to my Github profile!_
+
 
 # Sobre mim (_About me_) 
-- Olá, seja bem-vindo ao meu perfil no GitHub!
-(_Hello there, welcome to my Github profile!_)
+- Meu nome é Matheus Fidalgo (_My name's Matheus Fidalgo._)
+- Sou de Santos/SP. (_I live in Santos/SP/Brazil._)
+- Trabalho desenvolvendo sistemas e ferramentas voltadas ao âmbito escolar. (_I work developing systems and tools to school enviroment._)
+
+
+# Procuro (_Looking for_) 
+- Oportunidades como desenvolvedor júnior. (_Opportunities as a junior developer._)
+- Tenho disponibilidade para trabalhar fora do país. (_I am available to work abroad._)
+- Meu inglês está entre avançado e fluente. (_My English is between advanced and fluent._)
+- Eu estudo e trabalho com as linguagens que estão logo abaixo. (_I study and work with the languages that are just below._)
+- Qualquer dúvida, sinta-se livre em me contatar através delas. (_Any questions, feel free to contact me through them._)
 
 <div>
     <a href="https://github.com/MatheusFidalgo">  

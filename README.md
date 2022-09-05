@@ -6,6 +6,7 @@ _Hello there, welcome to my Github profile!_
 - Meu nome é Matheus Fidalgo (_My name's Matheus Fidalgo._)
 - Nascido e criado em Santos/SP. (_Born and raised in Santos/SP/Brazil._)
 - Atualmente trabalho desenvolvendo sistemas e ferramentas voltadas ao âmbito escolar. (_I am currently working on developing systems and tools for a school enviroment._)
+- Sistemas escolares utilizando Angular/C#/SQL Server. (_School systems using Angular/C#/SQL Server._)
 
 
 ## Procuro (_Looking for_) 

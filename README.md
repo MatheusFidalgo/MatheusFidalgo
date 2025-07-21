@@ -2,7 +2,7 @@
 _Hello there, welcome to my Github profile!_
 
 ## Foco & Experiência (_Focus & Experience_) 
-- Atualmente focado em masterizar Flutter utilizando Dart para desenvolvimento mobile. (_Currently focused on mastering Flutter using Dart for mobile development._)
+- Aperfeiçoando Flutter utilizando Dart para desenvolvimento mobile. (_Currently focused on mastering Flutter using Dart for mobile development._)
 - Experiência em sistemas escolares utilizando Angular/C#/SQL Server. (_Experience in School systems using Angular/C#/SQL Server._)
 
 ## Procuro (_Looking for_) 

@@ -8,7 +8,7 @@ _Hello there, welcome to my Github profile!_
 - Experiência em sistemas escolares utilizando Web em Angular/C#/SQL Server. (_Experience in school systems using Web in Angular/C#/SQL Server._)
 
 ## Procuro (_Looking for_) 
-- Oportunidades como desenvolvedor fullstack júnior. (_Opportunities as a junior full stack developer._)
+- Oportunidades como desenvolvedor fullstack ou júnior. (_Opportunities as a junior or full stack developer._)
 - Tenho disponibilidade para trabalhar fora do país. (_I am available to work abroad._)
 
 ## Sobre mim (_About me_) 

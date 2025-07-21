@@ -19,12 +19,6 @@ _Hello there, welcome to my Github profile!_
 - Sinta-se livre em me contatar através das redes abaixo. (_Feel free to contact me through the 'socials medias' below._)
 
 
-<div>
-    <a href="https://github.com/MatheusFidalgo">  
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusfidalgo&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfidalgo&layout=compact&langs_count=16&theme=ocean_dark"/>
-</div>
-
 <div style="display: inline:block"><br>
   <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />

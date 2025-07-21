@@ -20,6 +20,7 @@ _Hello there, welcome to my Github profile!_
 
 
 <div style="display: inline:block"><br>
+  <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" />
   <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -27,8 +28,7 @@ _Hello there, welcome to my Github profile!_
   <img align="center" alt="Matheus-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="Matheus-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  
-  <img align="right" alt="Matheus-Fidalgo" height="150" width="150" src="https://cdn.discordapp.com/attachments/717826915347464226/959188240475238490/EU_JAYJAY.png" />
+
 </div>  
 
 ##

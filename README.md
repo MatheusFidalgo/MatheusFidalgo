@@ -1,6 +1,9 @@
 ### Olá, seja bem-vindo ao meu perfil no GitHub!
 _Hello there, welcome to my Github profile!_
 
+## About me!
+Desenvolvedor de Software com experiência em aplicações web e mobile, especializado em  Angular, C#, TypeScript, Dart & Flutter. Atuei na criação de soluções para o setor educacional otimizando processos e melhorando a experiência do usuário. Proativo na resolução de problemas e focado em entregar código eficiente e escalável. Sempre em busca de novos desafios para agregar valor e impulsionar a inovação. (_Software developer with experience in web and mobile applications, specializing in Angular, C#, TypeScript, Dart, and Flutter. I've worked on creating solutions for the education sector, optimizing processes and improving the user experience. I'm proactive in problem-solving and focused on delivering efficient and scalable code. I'm always seeking new challenges to add value and drive innovation._)
+
 ## Foco & Experiência (_Focus & Experience_) 
 - Aperfeiçoando Flutter utilizando Dart para desenvolvimento mobile. (_Currently focused on mastering Flutter using Dart for mobile development._)
 - Estudando sobre Compose Multiplatform. (_Studying about Compose Multiplatform._)

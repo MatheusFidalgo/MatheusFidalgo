@@ -3,7 +3,9 @@ _Hello there, welcome to my Github profile!_
 
 ## Foco & Experiência (_Focus & Experience_) 
 - Aperfeiçoando Flutter utilizando Dart para desenvolvimento mobile. (_Currently focused on mastering Flutter using Dart for mobile development._)
-- Experiência em sistemas escolares utilizando Angular/C#/SQL Server. (_Experience in School systems using Angular/C#/SQL Server._)
+- Estudando sobre Compose Multiplatform. (_Studying about Compose Multiplatform._)
+- Experiência em sistemas escolares utilizando Flutter/Dart e Xamarin/C# para aplicativos de celular. (_Experience in school systems using Flutter/Dart and Xamarin/C# for mobile applications._)
+- Experiência em sistemas escolares utilizando Web em Angular/C#/SQL Server. (_Experience in school systems using Web in Angular/C#/SQL Server._)
 
 ## Procuro (_Looking for_) 
 - Oportunidades como desenvolvedor fullstack júnior. (_Opportunities as a junior full stack developer._)

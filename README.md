@@ -14,7 +14,7 @@ _Hello there, welcome to my Github profile!_
 ## Sobre mim (_About me_) 
 - Sou Matheus, sou nascido e criado em Santos e atualmente moro em São Paulo. (_I'm Matheus, I was born and raised in Santos and I currently live in São Paulo._)
 
-## Habilidades (_Others Skills_)
+## Habilidades (_Skills_)
 - Meu inglês é fluente e francês é básico/intermediário. (_My English is fluent and French is basic/intermediate._)
 - Eu estudo e trabalho com as linguagens que estão logo abaixo. (_I study and work with the languages that are just below._)
 <div style="display: inline:block"><br>

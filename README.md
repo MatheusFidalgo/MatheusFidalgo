@@ -19,7 +19,6 @@ _Hello there, welcome to my Github profile!_
 - Eu estudo e trabalho com as linguagens que estão logo abaixo. (_I study and work with the languages that are just below._)
 <div style="display: inline:block"><br>
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" />
-  <img align="center" alt="Matheus-Dart" height="30" width="40" src="https://dart.dev/assets/img/logo/logo-white-text.svg" />
   <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />

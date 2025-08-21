@@ -48,3 +48,6 @@ _Hello there, welcome to my Github profile!_
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank">
   </a>
 </div>
+
+## Certificados (_Certificates_)
+- Em breve. (_Coming soon_)

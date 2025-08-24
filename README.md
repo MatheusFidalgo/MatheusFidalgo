@@ -5,7 +5,7 @@ _Hello there, welcome to my Github profile!_
 - Sou desenvolvedor mobile e web em aplicações Flutter e Angular. Experiência em desenvolver sistemas com arquiteturas MVC, MVVM além de DDD, Clean Architecture e microsserviços. (_I'm a mobile and web developer working with Flutter and Angular applications. I have experience developing systems using MVC and MVVM architectures, as well as DDD, Clean Architecture, and microservices._)
 
 ## Procuro (_Looking for_) 
-- Oportunidades como desenvolvedor fullstack ou júnior. (_Opportunities as a junior or full stack developer._)
+- Oportunidades como desenvolvedor mobile júnior. (_Opportunities as a junior mobile developer._)
 - Tenho disponibilidade para trabalhar fora do país. (_I am available to work abroad._)
 
 ## Foco & Experiência (_Focus & Experience_) 

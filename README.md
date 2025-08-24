@@ -2,7 +2,7 @@
 _Hello there, welcome to my Github profile!_
 
 ## Sobre mim (_About me_) 
-- Sou desenvolvedor mobile e web em aplicações Flutter e Angular. Experiência em desenvolver sistemas com arquiteturas MVC, MVVM além de DDD, Clean Architecture e microsserviços. (_I'm a mobile and web developer working with Flutter and Angular applications. I have experience developing systems using MVC and MVVM architectures, as well as DDD, Clean Architecture, and microservices._)
+- Sou desenvolvedor mobile e web em aplicações com frameworks Flutter e Angular. Experiência em desenvolver sistemas com arquiteturas MVC, MVVM além de DDD, Clean Architecture e microsserviços. (_I'm a mobile and web developer working with frameworks Flutter and Angular applications. I have experience developing systems using MVC and MVVM architectures, as well as DDD, Clean Architecture, and microservices._)
 
 ## Procuro (_Looking for_) 
 - Oportunidades como desenvolvedor mobile júnior. (_Opportunities as a junior mobile developer._)

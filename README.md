@@ -17,6 +17,8 @@ _Hello there, welcome to my Github profile!_
 ## Tecnologias (_Technologies_)
 <div style="display: inline:block"><br>
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" />
+  <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  
   <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />

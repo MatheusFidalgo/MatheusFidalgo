@@ -19,7 +19,7 @@ _Hello there, welcome to my Github profile!_
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" />
   <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  
-  <img align="center" alt="React" height="30" width="40" src="https://legacy.reactjs.org/logo-og.png" />  
+  <img align="center" alt="React" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />  
   <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
